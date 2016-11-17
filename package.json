@@ -1,0 +1,12 @@
+{
+  "name": "npm-dependencies",
+  "version": "1.0.0",
+  "description": "Get a list of dependencies from JSON file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
